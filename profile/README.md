@@ -8,7 +8,7 @@ Earn rewards by completing bounties.
 ## How to earn your first ✨Magical Internet Bounty✨ (beta)
 > Please note that Sandblizzard is in beta. This means that we are currently using $sandBonk as the bounty. However, $sandBonk is meant to be 1:1 with $bonk on mainnet. If you want to redeem your $bonk then send the $sandBonk to CNY467c6XURCPjiXiKRLCvxdRf3bpunagYTJpr685gPv. You will receive your $bonk shortly thereafter. 
 
-1. Create a Pull Request agains the [verification repository](https://github.com/sandblizzard/verification/blob/main/profile.list.json) with your `github user name` and `solanaAddress` like
+1. Create a Pull Request against the [verification repository](https://github.com/sandblizzard/verification/blob/main/profile.list.json) with your `github user name` and `solanaAddress` like
 ```js
  {
       "github": <github_user>,
