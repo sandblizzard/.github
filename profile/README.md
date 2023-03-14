@@ -4,7 +4,7 @@
  
 For the grizzlython we will explore building perpetuals on [OpenBook](https://github.com/openbook-dex/program). 
 
-Check out the repo [perpetuals](https://github.com/sandblizzard/perpetuals) for more info
+Check out the repo [perpetuals](https://github.com/sandblizzard/perpetuals) for more info. Check out the app demo [here](https://tradeblizzard.vercel.app/long).
 
 ## Sandstorm hackathon 
 
