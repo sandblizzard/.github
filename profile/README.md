@@ -1,20 +1,37 @@
 # Sandblizzard
 
-> NOTE: currently betatesting on devnet.
+> NOTE: currently testing on devnet.
 
-### About
-Earn rewards by completing bounties.
+Discord: https://discord.gg/tDgUANDa 
 
-### Get started as contributor 
+Linktree: https://linktr.ee/sandblizzard
 
-First of you need to link your github profile and wallet. This can be done here https://sandblizzard.one/bridge. **Note**: Since we are testing on devnet you will need to change to using devnet in your wallet when interacting with the dapp. 
+### Why?
+There are many solutions out there for project to issue boounties, especially bug bounties. However, there are two problems with the current model
 
-Secondly, if you want to solve bounties you will also have to activate your solver account. This can be done here https://sandblizzard.one/reader. WIthin the reader you an also claim your rewards and discover projects that have a bounty issued. 
+1. Most bounties are large which requires time and dedication to solve. This rules out a lot of smaller contributors.
+2. It involves a third party. This increases the communication loop.
 
-### Get started as a project
+Sandblizzard solves both of these by allowing bounties of any size to be posted natively on github. It makes it easy to tap into potential that have a couple of hours here and there. Since the bounty is issues natively it's one entral place for discussion. It also makes it really evident who should get the bounty as the discussion and submission is public. 
 
-If you have a github project and want anyone to issue bounties in your issues then head over to https://sandblizzard.one/orb to add the Orb github app to your repository. When this is done you can create a bounty by simply writing \$[token]:[amount] \$ e.g. \$ usdc:10 \$ anywhere in your issue. 
+### What?
+ Sandblizzard allows anyone to attach bounties to github issues. It places a value on issues. This opens up for many different use cases, some are
 
-## Create bounty
+* Project owner can issue micro bounties that potential contributors can solve in a couple of hours. They can also issue larger bounties which takes longer.
+* Users of the project can themselves create issues with bounties if they need the issue to be resolved faster.
 
-The Orb github app is constantly looking for github issues that contains this pattern \$ [token]:[amount] \$, like \$ usdc:10 \$. The app will then interpret this as an intention to issue a bounty. 
+### How?
+Project owner: Please visit https://sandblizzard.one/orb/ to allow anyone to create bounties in your select repos
+Contributors: 
+1. Link you github profile and wallet here https://sandblizzard.one/bridge/
+2. Activate your solver account https://sandblizzard.one/reader/
+
+If the Orb app is added to the repository a bounty can be created by simply writing 
+
+```
+$[TOKEN_NAME]:[AMOUNT]$
+```
+Somewhere in the issue body. 
+
+### Demo
+Here is a demo of how it actually work in an issue https://github.com/sandblizzard/rewards-v1/issues/53
