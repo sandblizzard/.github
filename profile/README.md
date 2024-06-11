@@ -21,17 +21,18 @@ Sandblizzard solves both of these by allowing bounties of any size to be posted 
 * Users of the project can themselves create issues with bounties if they need the issue to be resolved faster.
 
 ### How?
-Project owner: Please visit https://sandblizzard.one/orb/ to allow anyone to create bounties in your select repos
+Builder: Please visit https://sandblizzard.one/orb/ to allow anyone to create bounties in your select repos
+
 Contributors: 
 1. Link you github profile and wallet here https://sandblizzard.one/bridge/
 2. Activate your solver account https://sandblizzard.one/reader/
 
-If the Orb app is added to the repository a bounty can be created by simply writing 
+If the Orb app is added to a repository a bounty can be created by simply writing 
 
 ```
 $[TOKEN_NAME]:[AMOUNT]$
 ```
-Somewhere in the issue body. 
+anywhere in the issue body. 
 
 ### Demo
 Here is a demo of how it actually work in an issue https://github.com/sandblizzard/rewards-v1/issues/53
