@@ -4,6 +4,8 @@
 
 Site: https://sandblizzard.one/
 
+Demo: https://github.com/sandblizzard/rewards-v1/issues/53
+
 Discord: https://discord.gg/tDgUANDa 
 
 Linktree: https://linktr.ee/sandblizzard
