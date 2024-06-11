@@ -9,21 +9,23 @@ Linktree: https://linktr.ee/sandblizzard
 ### Why?
 There are many solutions out there for project to issue boounties, especially bug bounties. However, there are two problems with the current model
 
-1. Bounties are often large which requires time to solve. This rules out a lot of smaller contributors.
-2. It involves a third party. This increases the communication loop.
+1. Bounties are often large which requires time to solve.
+2. It involves a third party. This reduces the issue resolution speed. 
 
-Sandblizzard solves both of these by allowing bounties of any size to be posted natively on github. It makes it easy to tap into potential that have a couple of hours here and there. Since the bounty is issues natively it's one entral place for discussion. It also makes it really evident who should get the bounty as the discussion and submission is public. 
+Sandblizzard solves both of these by allowing bounties to be posted natively on github. It makes it easy to tap into talent that have time on the side. 
 
 ### What?
- Sandblizzard allows anyone to attach bounties to github issues. It places a value on issues. This opens up for many different use cases, some are
+ Sandblizzard allows anyone to attach bounties to github issues. This opens up for many different use cases, some of which are
 
-* Project owner can issue micro bounties that potential contributors can solve in a couple of hours. They can also issue larger bounties which takes longer.
-* Users of the project can themselves create issues with bounties if they need the issue to be resolved faster.
+* Project owners can issue micro bounties.
+* Users can themselves create bounties if they need an issue to be resolved faster.
+
+
 
 ### How?
-Builder: Please visit https://sandblizzard.one/orb/ to allow anyone to create bounties in your select repos
+**Builder**: Please visit https://sandblizzard.one/orb/ to allow anyone to create bounties in your select repos
 
-Contributors: 
+**Contributors**: 
 1. Link you github profile and wallet here https://sandblizzard.one/bridge/
 2. Activate your solver account https://sandblizzard.one/reader/
 
