@@ -9,7 +9,7 @@ Linktree: https://linktr.ee/sandblizzard
 ### Why?
 There are many solutions out there for project to issue boounties, especially bug bounties. However, there are two problems with the current model
 
-1. Most bounties are large which requires time and dedication to solve. This rules out a lot of smaller contributors.
+1. Bounties are often large which requires time to solve. This rules out a lot of smaller contributors.
 2. It involves a third party. This increases the communication loop.
 
 Sandblizzard solves both of these by allowing bounties of any size to be posted natively on github. It makes it easy to tap into potential that have a couple of hours here and there. Since the bounty is issues natively it's one entral place for discussion. It also makes it really evident who should get the bounty as the discussion and submission is public. 
