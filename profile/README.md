@@ -2,6 +2,8 @@
 
 > NOTE: currently testing on devnet.
 
+Site: https://sandblizzard.one/
+
 Discord: https://discord.gg/tDgUANDa 
 
 Linktree: https://linktr.ee/sandblizzard
